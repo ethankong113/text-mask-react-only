@@ -1,5 +1,7 @@
 # React Input Mask
 
+NOTE: This is a fork from [text-mask library](https://github.com/text-mask/text-mask) with the react subdirectory only.
+
 ## Getting started
 
 First, install it.
